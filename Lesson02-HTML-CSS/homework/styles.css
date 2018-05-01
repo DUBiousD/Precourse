@@ -1,0 +1,28 @@
+body {
+	background-image: url("https://loremflickr.com/960/1080/coding");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1 {
+	color: orange;
+}
+img {
+	width: 400px;
+}
+#thirdDiv {
+	margin: auto;
+	border: 3px dashed darkorange;
+	height: 600px;
+	width: 500px;
+	background-color: lightgray;
+	padding: 50px;
+}
+.spanId {
+	font-size: 18px;
+	margin: 50px;
+}
+.divClass {
+	text-align: center;
+}
